@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|c:\\users\\asus\\documents\\downloads\\login-and-register-main-20260902t091058z-1-001\\login-and-register-main\\login and register\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\login and register\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|c:\\users\\asus\\documents\\downloads\\login-and-register-main-20260902t091058z-1-001\\login-and-register-main\\login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|c:\\users\\asus\\documents\\downloads\\login-and-register-main-20260902t091058z-1-001\\login-and-register-main\\login and register\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmDashboard.cs",
+              "RelativeToolTip": "Login and Register\\frmDashboard.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:16:52.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\App.config",
+              "RelativeDocumentMoniker": "Login and Register\\App.config",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\App.config",
+              "RelativeToolTip": "Login and Register\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-02T09:45:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
+              "RelativeToolTip": "Login and Register\\frmLogin.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:29:45.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
+              "RelativeToolTip": "Login and Register\\frmRegister.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:29:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmRegister.cs [Design]",
+              "RelativeToolTip": "Login and Register\\frmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:29:45.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login and Register\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:29:45.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Downloads\\Login-and-Register-main-20260902T091058Z-1-001\\Login-and-Register-main\\Login and Register\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "Login and Register\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:29:45.655Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
